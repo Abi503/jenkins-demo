@@ -1,1 +1,2 @@
-Testing automatic Jenkins build
+Auto build test 2
+
